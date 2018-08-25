@@ -1,0 +1,1 @@
+{"Modules":[{"Source":"./module/rds","Key":"1.rds;./module/rds","Version":"","Dir":".terraform\\modules\\4fdf5900a8cea242b211884ae0f319bb","Root":""},{"Source":"./module/ec2","Key":"1.ec2;./module/ec2","Version":"","Dir":".terraform\\modules\\bcfbb046066256914441f3c8e20efd52","Root":""}]}
